@@ -1,0 +1,168 @@
+{
+  "meta": {
+    "client": {
+      "lastModifiedTime": "2025-05-24T01:21:43.807",
+      "enableSerialDebugging": false,
+      "enableSystemLogDebugging": false,
+      "publishedDataSizeLimitMB": 0,
+      "dynamicDataSizeLimitMB": 0,
+      "htmlDataSizeLimitMB": 0,
+      "htmlLocalStorageSizeLimitMB": 0,
+      "htmlIndexedDBSizeLimitMB": 0,
+      "publishedDataSizeLimitPercentage": 0,
+      "dynamicDataSizeLimitPercentage": 0,
+      "htmlDataSizeLimitPercentage": 0,
+      "htmlLocalStorageSizeLimitPercentage": 0,
+      "htmlIndexedDBSizeLimitPercentage": 0,
+      "limitStorageSpace": false,
+      "playbackLoggingEnabled": false,
+      "eventLoggingEnabled": false,
+      "diagnosticLoggingEnabled": false,
+      "stateLoggingEnabled": false,
+      "variableLoggingEnabled": false,
+      "uploadLogFilesAtBoot": false,
+      "uploadLogFilesAtSpecificTime": false,
+      "uploadLogFilesTime": 0
+    },
+    "server": {}
+  },
+  "files": {
+    "download": [
+      {
+        "name": "autoplay-faces-test.json",
+        "hash": {
+          "method": "SHA1",
+          "hex": "44afeff82e20ad7413c1b4760cadb825c5ede9ba"
+        },
+        "size": 24913,
+        "link": "pool/b/a/sha1-44afeff82e20ad7413c1b4760cadb825c5ede9ba"
+      },
+      {
+        "name": "faces-test.bml",
+        "hash": {
+          "method": "SHA1",
+          "hex": "1badf3d023b46fea4efdf5e64d0a8facc7a0b917"
+        },
+        "size": 29857,
+        "link": "pool/1/7/sha1-1badf3d023b46fea4efdf5e64d0a8facc7a0b917"
+      },
+      {
+        "name": "two.jpg",
+        "hash": {
+          "method": "SHA1",
+          "hex": "efa85ac0b498fc7009cec59350b1e19c8336e325"
+        },
+        "size": 34811,
+        "link": "pool/2/5/sha1-efa85ac0b498fc7009cec59350b1e19c8336e325"
+      },
+      {
+        "name": "three.jpg",
+        "hash": {
+          "method": "SHA1",
+          "hex": "a5fa08777fd4cf8f694529c82d35f397ee05675c"
+        },
+        "size": 245220,
+        "link": "pool/5/c/sha1-a5fa08777fd4cf8f694529c82d35f397ee05675c"
+      },
+      {
+        "name": "four_resized.jpeg",
+        "hash": {
+          "method": "SHA1",
+          "hex": "3dd8290d465bb1fe3a6230cd1b8bd372785f4417"
+        },
+        "size": 168501,
+        "link": "pool/1/7/sha1-3dd8290d465bb1fe3a6230cd1b8bd372785f4417"
+      },
+      {
+        "name": "five.jpg",
+        "hash": {
+          "method": "SHA1",
+          "hex": "f6b5b5c8fe62370b8b6decfb173f2b7ee257c45f"
+        },
+        "size": 482985,
+        "link": "pool/5/f/sha1-f6b5b5c8fe62370b8b6decfb173f2b7ee257c45f"
+      },
+      {
+        "name": "many.jpg",
+        "hash": {
+          "method": "SHA1",
+          "hex": "8cb7c77afc7917185c2f68fa75e9fd85f5502cb8"
+        },
+        "size": 56156,
+        "link": "pool/b/8/sha1-8cb7c77afc7917185c2f68fa75e9fd85f5502cb8"
+      },
+      {
+        "name": "autoplugins.brs",
+        "hash": {
+          "method": "SHA1",
+          "hex": "4757dc2a65c88a30f08d9ae0d7722998f0510bb8"
+        },
+        "size": 142,
+        "link": "pool/b/8/sha1-4757dc2a65c88a30f08d9ae0d7722998f0510bb8",
+        "group": "script"
+      },
+      {
+        "name": "autorun.brs",
+        "hash": {
+          "method": "SHA1",
+          "hex": "82190738b79ca8353f392b4f8e455a388635688a"
+        },
+        "size": 1180956,
+        "link": "pool/8/a/sha1-82190738b79ca8353f392b4f8e455a388635688a",
+        "group": "script"
+      },
+      {
+        "name": "autoschedule.json",
+        "hash": {
+          "method": "SHA1",
+          "hex": "a49087331fa5000d920fdb23908820299fc2095b"
+        },
+        "size": 966,
+        "link": "pool/5/b/sha1-a49087331fa5000d920fdb23908820299fc2095b"
+      },
+      {
+        "name": "featureMinRevs.json",
+        "hash": {
+          "method": "SHA1",
+          "hex": "be206e2753e404e0135926e3f26fea9a8da705d2"
+        },
+        "size": 72,
+        "link": "pool/d/2/sha1-be206e2753e404e0135926e3f26fea9a8da705d2"
+      },
+      {
+        "name": "PartnerProducts.json",
+        "hash": {
+          "method": "SHA1",
+          "hex": "7f6f525d51ba1977356a37f7b9f097a52cf53f3a"
+        },
+        "size": 5473,
+        "link": "pool/3/a/sha1-7f6f525d51ba1977356a37f7b9f097a52cf53f3a"
+      },
+      {
+        "name": "Default_PresentationWebPage/_deviceWebPage.html",
+        "hash": {
+          "method": "SHA1",
+          "hex": "b6bec2ed0cd22a6d53cd97056d7d5f82705ffe9d"
+        },
+        "size": 24922,
+        "link": "pool/9/d/sha1-b6bec2ed0cd22a6d53cd97056d7d5f82705ffe9d"
+      }
+    ],
+    "ignore": [
+      {
+        "pattern": "*"
+      }
+    ],
+    "delete": [
+      {
+        "pattern": "*.brs"
+      },
+      {
+        "pattern": "*.rok"
+      },
+      {
+        "pattern": "*.bsfw"
+      }
+    ]
+  }
+}
